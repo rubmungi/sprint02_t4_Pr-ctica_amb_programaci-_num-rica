@@ -1,1 +1,1 @@
-# sprint02_t4_Pr-ctica_amb_programaci-_num-rica
+# sprint02_t4_programació_numèrica
